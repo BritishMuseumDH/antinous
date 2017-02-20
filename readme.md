@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/82554716.svg)](https://zenodo.org/badge/latestdoi/82554716)
 [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335)
 
 # 3D Model of the bust of Antinous, Gallery 70, British Museum
