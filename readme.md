@@ -5,6 +5,8 @@
 
 Marble portrait head from a statue of Antinous (as Dionysus?) wearing a wreath of ivy. The bust is modern.
 Height 81.00cm
+
+![](antinous.gif)
  
  COL [link](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=460095)
  
